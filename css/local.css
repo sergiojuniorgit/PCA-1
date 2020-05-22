@@ -1,0 +1,35 @@
+#rodape {
+	background-color: #060606;
+    padding: 35px 0 10px 0;	
+}
+
+#rodape a {
+	display: block;
+	text-align: center;
+}
+
+#rodape p {
+	font-size: 14px;
+    text-align: center;
+    color: white;
+}
+
+.home{
+    background-color: #B73170;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    font-family: Garanido;
+}
+
+p{
+    color: white;
+
+}
+
+li{
+    color: white;
+  
+}

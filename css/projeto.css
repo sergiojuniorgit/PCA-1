@@ -1,0 +1,75 @@
+.home{
+    background-color: #B73170;
+}
+
+.controlecar{
+    width: 80%;
+    margin: 1rem;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
+.titulo{
+    color: white;
+}
+
+.rede{
+    color: white;
+}
+.social{
+    text-align: center;
+}
+
+
+
+.bquiz{
+    text-align: center;
+
+}
+
+.bmemoria{
+   text-align: center;
+}
+
+.container2{
+    background-color:#B73170;
+    color:grey;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+}
+
+
+.col {
+    place-self: center;
+    width: 50vw;
+    margin: 1rem;
+    padding: 3rem;
+    border-radius: 1rem;
+    box-shadow:  0px 4px 0px lightgray;
+    background-color: white;
+}
+
+.noidea{
+    color: white;
+    font-family: Garanido;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+#rodape {
+	background-color: #060606;
+    padding: 35px 0 10px 0;	
+}
+
+#rodape a {
+	display: block;
+	text-align: center;
+}
+
+#rodape p {
+	font-size: 14px;
+    text-align: center;
+    color: white;
+}
+

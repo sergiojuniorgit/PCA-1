@@ -1,0 +1,24 @@
+.inciar{
+    margin-top: 6%;
+}
+
+.select{
+    background-color: white;
+    position: absolute;
+}
+
+.ler{
+    text-align: center;
+    font-style: italic;
+    color: rgb(68, 125, 248);
+    font-family: Arial;
+    font-size: 42pt;
+}
+
+body{
+	background-image:url(../imagens/despertakids.jpeg);
+	background-attachment: fixed;
+	background-size: 100%;
+    background-repeat: 2;
+    background-color:  #ffcc00;
+}
