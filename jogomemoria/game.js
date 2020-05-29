@@ -156,7 +156,7 @@ function BuilderCardGame(){
 		'imagem3.png','imagem3.png',
 		'imagem4.png','imagem4.png',
 		'imagem5.png','imagem5.png',
-		'imagem6.png','imagem6.png',);
+		);
 
 	this.doCardGame =  function (){
 		shufflePictures();
