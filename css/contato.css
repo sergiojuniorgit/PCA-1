@@ -1,0 +1,72 @@
+.contato{
+    background-color: #B73170;
+    width: 100%;
+    max-width: 500px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.field{
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+textarea{
+    height: 150px;
+
+}
+
+.home{
+    background-color: #B73170;
+
+}
+
+
+.icone{
+    margin: 0px auto;
+   
+}
+
+
+.card-header{
+    color: white;
+    text-align: center;
+    font-family: Garanido;
+   
+}
+
+.card{
+    
+    text-align: center;
+}
+
+#rodape {
+	background-color: #060606;
+    padding: 35px 0 10px 0;	
+}
+
+#rodape a {
+	display: block;
+	text-align: center;
+}
+
+#rodape p {
+	font-size: 14px;
+    text-align: center;
+    color: white;
+}
+
+.display-4{
+    color:white;
+    font-family: Garanido;
+}
