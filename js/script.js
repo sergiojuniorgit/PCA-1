@@ -1,7 +1,7 @@
 function quiz(){
 
         var inicio=confirm('Bem-Vindo ao Quiz!\nVoce tem certeza que deseja participar?');
-        if(inicio==false){window.location.replace("index.html");}
+        if(inicio==false){window.location.replace("../html/home.html");}
         else{ window.alert('Clique Ok para iniciar');
         //Inicio do quiz
         var certo = "<b>Correto!</b>"; 
